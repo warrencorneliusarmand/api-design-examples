@@ -18,21 +18,3 @@ A simple conceptual API for managing users.
 GET /users/123
 Accept: application/json
 
-Example Response
-{
-  "id": 123,
-  "name": "Example User",
-  "status": "active"
-}
-
-Design Considerations
-
-A production API would additionally require appropriate authentication, authorization, validation, error handling, logging, monitoring, documentation, and data-protection controls.
-
-This example is intentionally simple and is intended to demonstrate API design concepts rather than represent a production implementation.
-
-
-Commit:
-
-```text
-Add REST API example
