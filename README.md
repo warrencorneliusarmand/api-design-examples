@@ -46,3 +46,7 @@ When evaluating AI-generated API guidance, I assess:
 This repository is intended to demonstrate technical understanding of API design concepts and the ability to analyze and evaluate AI-generated technical guidance.
 
 It is a portfolio example rather than a production API implementation.
+
+See my AI evaluation portfolio for additional examples of technical, reasoning, writing, coding, factual, and safety evaluation.
+
+**Portfolio:** https://trusting-beet-55a.notion.site/WARREN-CORNELIUS-ARMAND-AI-Evaluation-Portfolio-3cdb935f18ba80a69c75fde1bad33630
